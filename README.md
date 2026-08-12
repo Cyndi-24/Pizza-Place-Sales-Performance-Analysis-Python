@@ -78,9 +78,10 @@ This suggests that the restaurant experiences its greatest order volume around l
 
 **Friday recorded the highest sales revenue**, followed by Thursday and Saturday, while Sunday generated the lowest sales.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/daily_sales.png)
 
 The pattern shows that stronger sales were concentrated toward the latter part of the working week and Saturday rather than across the entire weekend.
+
 # Recommendations and Conclusion
 
 
