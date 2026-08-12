@@ -1,41 +1,51 @@
 # Pizza Place Sales Performance Analysis
 
----
-![image alt](
----
-# Project Overview
-This project involves a comprehensive analysis of Pizza Places Sales over a period of one year using Jupyter Notebook.The aim of this analysis was to transform raw sales into business insights using key performance indicators and other specific business questions which helps to examine the business operations and operational efficiency
 
----
-# Problem Statement
-The following questions were answered in the course of the analysis
-1) What is the totak revenue?
-2) Find the total quantity sold?
-3) What is the total order?
-4) How many pizza types are being sold?
-5) Find the average price of the pizzas?
-6) What are the peak hours of sales?
-7) Which day of the week made the most sales?
-8) Find the top 5 best selling pizzas.
-9) Find the sales made in each month?
-10) Are there pizza types that are not doing well in the menu?
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/pizzza_sales_image.png)
 
----
-# Data Sourcing
----
-This dataset was sourced from kaggle.com
+## Project Overview
 
----
-# Technologies Used/SKills Demonstrated
-a) Python: This was the main programming language used for the analysis
+Pizza Place Sales is a Python-based business analysis project focused on understanding the sales performance of a fictional pizza restaurant using transactional data.
 
-b) Pandas: This was used for data cleaning,merging the csv files and performing most mathematical operations
+## Project Objective
 
-c) Matplotlib: This was used for creating the data visuals
+The objective was to identify the restaurant’s strongest and weakest sales periods, understand ordering patterns, evaluate product performance, and translate the findings into practical recommendations for staffing, inventory, promotions, and menu decisions.
 
-d) Jupyter Notebook: This is the interactive environment used to document the analysis step by step
+## Data Source
 
----
+The analysis uses the **Pizza Place Sales** dataset from Maven Analytics, containing one year of transactional data across orders, order details, pizzas, and pizza types.
+
+## Analytical Questions
+
+1. What was the total revenue generated during the year?
+2. How many pizzas were sold?
+3. How many unique orders were recorded?
+4. How many different pizza types were available?
+5. What was the average price of pizzas sold?
+6. What were the peak ordering hours?
+7. Which days of the week generated the highest sales?
+8. Which pizzas were the top performers?
+9. How did sales vary across the months of the year?
+10. Which pizzas were underperforming?
+
+## Technologies Used/SKills Demonstrated
+
+* Python: This was the main programming language used for the analysis
+* Pandas: This was used for data cleaning,merging the csv files and performing most mathematical operations
+* Matplotlib and Seaborn: This was used for creating the data visuals
+* Jupyter Notebook: This is the interactive environment used to document the analysis step by step
+
+## Approach
+
+The analysis followed a structured process:
+
+1. Imported the sales datasets into Python and reviewed their structure and data quality.
+2. Cleaned and prepared the data by checking for missing values, duplicates, and appropriate data types.
+3. Combined the relevant tables to create a complete dataset for analysis.
+4. Created additional time-based features needed to analyze sales by hour, day, and month.
+5. Analyzed revenue, orders, pricing, sales patterns, and pizza performance based on the defined analytical questions.
+6. Visualized key findings to make important trends and performance differences easier to understand.
+7. Translated the findings into practical business recommendations.
 
 # Recommendations and Conclusion
 
