@@ -1,7 +1,7 @@
-# Pizza Place Sales Analysis
-# By Ofolebe Cyndi
+# Pizza Place Sales Performance Analysis
+
 ---
-![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Analysis/blob/main/TechCrush%20Task%203/pizzza_sales_image.png?raw=true)
+![image alt](
 ---
 # Project Overview
 This project involves a comprehensive analysis of Pizza Places Sales over a period of one year using Jupyter Notebook.The aim of this analysis was to transform raw sales into business insights using key performance indicators and other specific business questions which helps to examine the business operations and operational efficiency
