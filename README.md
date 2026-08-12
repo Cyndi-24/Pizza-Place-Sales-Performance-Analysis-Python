@@ -94,7 +94,7 @@ The results show that these pizzas were the strongest performers by sales volume
 
 Sales performance varied throughout the year, with **July recording the strongest sales**, while **September and October experienced weaker performance**.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/monthly%20trend.png)
 
 The monthly pattern highlights periods of stronger and weaker demand, which can help the restaurant plan promotions, inventory, and staffing more effectively throughout the year.
 
