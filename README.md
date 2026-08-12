@@ -74,6 +74,13 @@ Order activity was highest around **12:00 PM and 1:00 PM**, showing a clear lunc
 
 This suggests that the restaurant experiences its greatest order volume around lunchtime, making this an important period for operational planning.
 
+### Sales by Day of the Week
+
+**Friday recorded the highest sales revenue**, followed by Thursday and Saturday, while Sunday generated the lowest sales.
+
+![image alt](
+
+The pattern shows that stronger sales were concentrated toward the latter part of the working week and Saturday rather than across the entire weekend.
 # Recommendations and Conclusion
 
 
