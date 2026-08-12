@@ -86,7 +86,7 @@ The pattern shows that stronger sales were concentrated toward the latter part o
 
 The **Thai Chicken Pizza** generated the highest revenue, followed by the **Barbecue Chicken Pizza** and **California Chicken Pizza**.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/top5_pizzas.png)
 
 The results show that a small group of pizzas contributed strongly to overall sales, with chicken-based pizzas featuring prominently among the highest revenue-generating products.
 
