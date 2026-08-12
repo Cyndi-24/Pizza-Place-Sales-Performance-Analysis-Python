@@ -102,7 +102,7 @@ The monthly pattern highlights periods of stronger and weaker demand, which can 
 
 The analysis identified the pizzas with the lowest sales volumes, with **Brie Carre Pizza** recording the lowest quantity sold.
 
-![Bottom-Performing Pizzas](your-image-path-here)
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/bottom_pizzas.png)
 
 Lower sales volume does not automatically mean these pizzas should be removed from the menu. Their performance should be reviewed alongside factors such as profitability, customer demand, ingredient costs, and opportunities for promotion before making menu changes.
 
