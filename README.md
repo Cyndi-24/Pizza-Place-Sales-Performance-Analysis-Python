@@ -98,6 +98,14 @@ Sales performance varied throughout the year, with **July recording the stronges
 
 The monthly pattern highlights periods of stronger and weaker demand, which can help the restaurant plan promotions, inventory, and staffing more effectively throughout the year.
 
+### Underperforming Pizzas
+
+The analysis identified the pizzas with the lowest sales volumes, with **Brie Carre Pizza** recording the lowest quantity sold.
+
+![Bottom-Performing Pizzas](your-image-path-here)
+
+Lower sales volume does not automatically mean these pizzas should be removed from the menu. Their performance should be reviewed alongside factors such as profitability, customer demand, ingredient costs, and opportunities for promotion before making menu changes.
+
 # Recommendations and Conclusion
 
 
