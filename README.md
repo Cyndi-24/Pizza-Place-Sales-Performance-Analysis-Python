@@ -37,17 +37,26 @@ The analysis uses the **Pizza Place Sales** dataset from Maven Analytics, contai
 
 ## Approach
 
-The analysis followed a structured process:
+The project followed three main stages:
+1. **Data Preparation** – Imported, reviewed, cleaned, merged, and prepared the four related datasets for analysis.
+2. **Performance Analysis** – Used Python to answer the defined business questions and explore revenue, ordering patterns, peak periods, pricing, and product performance.
+3. **Business Interpretation** – Visualized key patterns, interpreted the findings, and translated them into practical recommendations for the restaurant.
 
-1. Imported the sales datasets into Python and reviewed their structure and data quality.
-2. Cleaned and prepared the data by checking for missing values, duplicates, and appropriate data types.
-3. Combined the relevant tables to create a complete dataset for analysis.
-4. Created additional time-based features needed to analyze sales by hour, day, and month.
-5. Analyzed revenue, orders, pricing, sales patterns, and pizza performance based on the defined analytical questions.
-6. Visualized key findings to make important trends and performance differences easier to understand.
-7. Translated the findings into practical business recommendations.
+
+## Data Cleaning & Preparation
+
+Before analysis, the four datasets were reviewed and prepared to ensure consistency and usability.
+- Inspected the structure, columns, and data types of each dataset.
+- Checked for missing values and duplicate records.
+- Merged the four related tables using their shared identifiers.
+- Converted the date and time fields to appropriate formats for time-based analysis.
+- Extracted relevant time components needed to analyze sales by hour, day, and month.
+- Created the required sales calculations for the analysis.
+
+The resulting dataset was then used to answer the defined analytical questions.
 
 # Recommendations and Conclusion
+
 
 a) From the analysis the peak hours of sales were between *12 - 1 pm*  and the busiest day of the week is usually *Fridays* .Based on this there must be proper stocking during this Strategic periods to avoid shortages and there should be sufficient staff on ground during these period to meet up with the customer order.
 
