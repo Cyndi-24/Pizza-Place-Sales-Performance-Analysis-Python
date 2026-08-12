@@ -106,15 +106,21 @@ The analysis identified the pizzas with the lowest sales volumes, with **Brie Ca
 
 Lower sales volume does not automatically mean these pizzas should be removed from the menu. Their performance should be reviewed alongside factors such as profitability, customer demand, ingredient costs, and opportunities for promotion before making menu changes.
 
-# Recommendations and Conclusion
+## Business Recommendations
 
+- Prepare staffing and inventory around the busiest periods, especially the lunchtime peak and stronger sales days such as Friday.
+- Use targeted promotions or seasonal offers during weaker months such as September and October to stimulate demand.
+- Protect availability of high-volume pizzas such as Classic Deluxe, Barbecue Chicken, Hawaiian, Pepperoni, and Thai Chicken so popular products are not lost to stock shortages.
+- Review consistently low-selling pizzas such as Brie Carre before making removal decisions, considering pricing, promotion, ingredient costs, and overall profitability.
+- Use the observed ordering pattern of roughly 2.3 pizzas per order to explore suitable meal bundles or group offers.
 
-a) From the analysis the peak hours of sales were between *12 - 1 pm*  and the busiest day of the week is usually *Fridays* .Based on this there must be proper stocking during this Strategic periods to avoid shortages and there should be sufficient staff on ground during these period to meet up with the customer order.
+## Limitations
 
-b) Proper investigation should be carried out to find out the rason behind the flunctuations in sales trend. This will help in guiding sales optimization during seasons of poor sales.
+- The dataset covers one year of sales from a fictional pizza restaurant, so the findings may not represent long-term or real-world market behaviour.
+- The analysis focuses on sales transactions and does not include customer demographics, feedback, ingredient costs, or profit margins.
+- Because profitability data was not available, low-selling pizzas could not be judged solely on whether they should remain on the menu.
+- The analysis identifies patterns in sales performance but does not establish the causes behind changes in demand.
 
-c) Low peforming pizza in terms of volume ordered  and revenue generated such as *The Brie Carre Pizza* can be removed completely from the menu and the resources chanelled to the high performing pizzas or the product can be rebranded and put on promo to improve its sales.
+## Conclusion
 
-d) For high performing Pizzas such as *The Classic Deluxe Pizza*  and *The Barbecue Chicken Pizza* the ingredient availibility and preparation should always be proritized to avoid going  out of stock.
-
-
+This project demonstrates how transactional sales data can be transformed into practical business insights using Python. The findings can support better decisions around staffing, inventory planning, promotions, and menu management.
