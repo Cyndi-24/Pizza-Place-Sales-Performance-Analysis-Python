@@ -84,11 +84,19 @@ The pattern shows that stronger sales were concentrated toward the latter part o
 
 ### Top-Performing Pizzas
 
-The **Thai Chicken Pizza** generated the highest revenue, followed by the **Barbecue Chicken Pizza** and **California Chicken Pizza**.
+The **Classic Deluxe Pizza** recorded the highest quantity sold, followed by the **Barbecue Chicken Pizza**, **Hawaiian Pizza**, **Pepperoni Pizza**, and **Thai Chicken Pizza**.
 
 ![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/top5_pizzas.png)
 
-The results show that a small group of pizzas contributed strongly to overall sales, with chicken-based pizzas featuring prominently among the highest revenue-generating products.
+The results show that these pizzas were the strongest performers by sales volume, with Classic Deluxe leading overall demand.
+
+### Monthly Sales Trend
+
+Sales performance varied throughout the year, with **July recording the strongest sales**, while **September and October experienced weaker performance**.
+
+![image alt](
+
+The monthly pattern highlights periods of stronger and weaker demand, which can help the restaurant plan promotions, inventory, and staffing more effectively throughout the year.
 
 # Recommendations and Conclusion
 
