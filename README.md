@@ -70,7 +70,7 @@ These figures provide an overall view of the restaurant's annual sales performan
 
 Order activity was highest around **12:00 PM and 1:00 PM**, showing a clear lunchtime peak in customer demand.
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/Pizza-Place-Sales-Performance-Analysis-Python/blob/main/pizzasales_analysis/images/peak_hours.png)
 
 This suggests that the restaurant experiences its greatest order volume around lunchtime, making this an important period for operational planning.
 
