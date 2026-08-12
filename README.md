@@ -82,6 +82,14 @@ This suggests that the restaurant experiences its greatest order volume around l
 
 The pattern shows that stronger sales were concentrated toward the latter part of the working week and Saturday rather than across the entire weekend.
 
+### Top-Performing Pizzas
+
+The **Thai Chicken Pizza** generated the highest revenue, followed by the **Barbecue Chicken Pizza** and **California Chicken Pizza**.
+
+![image alt](
+
+The results show that a small group of pizzas contributed strongly to overall sales, with chicken-based pizzas featuring prominently among the highest revenue-generating products.
+
 # Recommendations and Conclusion
 
 
