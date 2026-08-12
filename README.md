@@ -55,6 +55,25 @@ Before analysis, the four datasets were reviewed and prepared to ensure consiste
 
 The resulting dataset was then used to answer the defined analytical questions.
 
+## Key Findings & Visualisation 
+
+### Overall Sales Performance
+
+- The restaurant generated approximately **$817,860 in total revenue** during the year.
+- A total of **49,574 pizzas** were sold across **21,350 orders**.
+- Each order contained approximately **2.3 pizzas on average**.
+- The average pizza price was approximately **$16.49**.
+
+These figures provide an overall view of the restaurant's annual sales performance and serve as a baseline for examining when sales occurred and which products contributed most.
+
+### Peak Ordering Hours
+
+Order activity was highest around **12:00 PM and 1:00 PM**, showing a clear lunchtime peak in customer demand.
+
+![image alt](
+
+This suggests that the restaurant experiences its greatest order volume around lunchtime, making this an important period for operational planning.
+
 # Recommendations and Conclusion
 
 
